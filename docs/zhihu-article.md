@@ -78,7 +78,7 @@ ollama run qwen3:0.6b
 
 项目使用原生 HTML、CSS 和 JavaScript，没有构建步骤。页面有独立地址，也做了同源预加载和页面内切换，减少课程之间跳转的等待。
 
-README 收录了截图、运行方式和演示边界。仓库地址：[AI 起点](https://github.com/yushajiang/ai-learning)。仓库当前按私有设置，公开后读者才能直接访问。
+项目源码已公开在 GitHub：[AI 起点](https://github.com/yushajiang/ai-learning)。仓库包含完整网页源码、README、网站截图与本地运行说明，欢迎查看实现、下载到自己的电脑上实践；交互演示的模拟范围和使用边界也写在 README 中。
 
 推荐继续阅读的原始资料：
 
